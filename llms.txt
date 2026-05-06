@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Mekhabi Alaik |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mekhabi-alaik/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Music Rights & Licensing for Mekhabi Alaik](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
